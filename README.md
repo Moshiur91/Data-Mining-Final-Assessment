@@ -1,2 +1,2 @@
 # Data-Mining-Final-Assessment
-Code for Final Assessment
+Code for Data Mining Final Assessment
